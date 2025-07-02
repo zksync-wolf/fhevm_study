@@ -14,4 +14,3 @@ hello mark.
 
 4th Panel (Galaxy brain with lightning):
 "Zama be like: Let your apps think without ever knowing your secrets. 🔐💡"
-#FHE #PrivacyMaxi #ZamaMagic
