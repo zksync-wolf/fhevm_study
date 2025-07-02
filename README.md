@@ -1,7 +1,7 @@
 # fhevm_study
 
 # Welcome
-hello mark.
+hello world
 
 1st Panel (Small brain):
 "Encrypting data so no one sees it."
